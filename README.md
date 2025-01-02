@@ -40,6 +40,12 @@ python inference_opt.py --cfg_file cfgs/kitti_models/pv_rcnn.yaml \
     --sequence_id 00 
 ```
 
+## Technical Report
+## Technical Report
+The technical report of MAST can be found in the following link:
+
+[MAST Technical Report](https://github.com/gravesprite/MAST/blob/main/MAST_technical_report)
+
 ## Dataset
 The datasets can be downloaded from:
 #### SemanticKitti
