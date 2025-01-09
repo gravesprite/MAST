@@ -60,10 +60,19 @@ https://github.com/xiaoaoran/SynLiDAR
 ## Citation
 If you find our work useful, please consider citing:
 ``` shell
-@inproceedings{mast2025,
-  title={MAST: Towards Efficient Analytical Query Processing on Point Cloud Data [Technical Report]},
-  author = {Jiangneng Li and Haitao Yuan and Gao Cong and Han Mao Kiah and Shuhao Zhang},
-  booktitle={Proceedings of the 2025 ACM SIGMOD International Conference on Management of Data},
-  year={2025}
+@article{Li2025MAST,
+  author       = {Jiangneng Li and
+                  Haitao Yuan and
+                  Gao Cong and
+                  Han Mao Kiah and
+                  Shuhao Zhang},
+  title        = {MAST: Towards Efficient Analytical Query Processing on Point Cloud Data},
+  journal      = {Proc. {ACM} Manag. Data},
+  volume       = {3},
+  number       = {1},
+  pages        = {52:1--52:27},
+  year         = {2025},
+  url          = {https://doi.org/10.1145/3709702},
+  doi          = {10.1145/3709702}
 }
 ```
