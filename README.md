@@ -41,7 +41,6 @@ python inference_opt.py --cfg_file cfgs/kitti_models/pv_rcnn.yaml \
 ```
 
 ## Technical Report
-## Technical Report
 The technical report of MAST can be found in the following link:
 
 [MAST Technical Report](https://github.com/gravesprite/MAST/blob/main/MAST_technical_report.pdf)
@@ -58,7 +57,7 @@ https://once-for-auto-driving.github.io/download.html#downloads
 https://github.com/xiaoaoran/SynLiDAR
 
 ## Citation
-If you find our work useful, please consider citing:
+If you find this repo helpful, kindly cite:
 ``` shell
 @article{Li2025MAST,
   author       = {Jiangneng Li and
